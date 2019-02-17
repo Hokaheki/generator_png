@@ -1,0 +1,30 @@
+C:\Users\dawid\source\repos\generator_png\generator_png\bin\Debug\generator_png.exe.config
+C:\Users\dawid\source\repos\generator_png\generator_png\bin\Debug\generator_png.exe
+C:\Users\dawid\source\repos\generator_png\generator_png\bin\Debug\generator_png.pdb
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\App.g.cs
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png_MarkupCompile.cache
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png_MarkupCompile.lref
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\MainWindow.baml
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png.g.resources
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png.Properties.Resources.resources
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png.csproj.GenerateResource.cache
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png.exe
+C:\Users\dawid\source\repos\generator_png\generator_png\obj\Debug\generator_png.pdb
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\bin\Debug\generator_png.exe.config
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\bin\Debug\generator_png.exe
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\bin\Debug\generator_png.pdb
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png.csprojAssemblyReference.cache
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\MainWindow.g.cs
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\App.g.cs
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png_MarkupCompile.cache
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png_MarkupCompile.lref
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\MainWindow.baml
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png.g.resources
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png.Properties.Resources.resources
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png.csproj.GenerateResource.cache
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png.exe
+C:\Users\Mikołaj Twardowski\Desktop\generator_png\generator_png\obj\Debug\generator_png.pdb
